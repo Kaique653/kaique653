@@ -1,7 +1,4 @@
 ## Olá! Eu sou o Kaique Martins
-
-- 🔭 Atualmente sou estudande de Pogramação, voltado para o Front-End;
-- 🌱 Estudando JavaScript.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
